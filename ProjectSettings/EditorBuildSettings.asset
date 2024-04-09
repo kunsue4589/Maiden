@@ -5,16 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/Loading.unity
-    guid: 88ce4798a51cb5340ad90143953e3721
-  - enabled: 0
-    path: Assets/Scenes/Lobby.unity
-    guid: 135f6ddcac67c544894c0d07c170c6b5
   - enabled: 1
-    path: Assets/Scenes/Shooter.unity
-    guid: 5fd454ce0fd93614a9076063ffe21976
-  - enabled: 0
-    path: Assets/pong Game/scene/pong InGame.unity
-    guid: 3a65808f23da58848a183831c9753c27
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
